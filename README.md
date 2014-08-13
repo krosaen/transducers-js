@@ -1,10 +1,11 @@
-# sicp-clojure
+# transducers-js
 
-Yet another weenie working his way through SICP.
+Making sense of [transducers](http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming) by
+playing around with the same concepts in js.
 
 ## Usage
 
-    $ lein test
+    $ open SpecRunner.html
 
 ## License
 
